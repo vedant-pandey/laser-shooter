@@ -1,10 +1,10 @@
 # Laser Shooter
 
-One Paragraph of project description goes here
+A 2D space laser shooter clone made using Unity game engine. The sprites used in this project are open source and I do not own any license to them.
 
 ## Getting Started
 
-You only need unity to run this project(any version will do)
+You only need unity to run this project(6.0+)
 
 ## Authors
 
@@ -13,9 +13,3 @@ You only need unity to run this project(any version will do)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
